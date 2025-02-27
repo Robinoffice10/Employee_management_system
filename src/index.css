@@ -1,0 +1,12 @@
+
+.oswald- {
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+
+  body{
+    margin: auto;
+    padding: 0;
+}
